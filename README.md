@@ -371,6 +371,7 @@ Throughout this process, each network device performs a specific role:
 Understanding this forwarding process is the key objective of **NetPractice**, as every exercise requires configuring the network so that **packets** can successfully travel from their source to their destination.
 
 ### Project Structure
+```text
 .
 ├── level1.json
 ├── level2.json
@@ -383,6 +384,7 @@ Understanding this forwarding process is the key objective of **NetPractice**, a
 ├── level9.json
 ├── level10.json
 └── README.md
+```
 
 ## Resources
 
